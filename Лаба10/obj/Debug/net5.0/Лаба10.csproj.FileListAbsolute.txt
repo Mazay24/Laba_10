@@ -1,0 +1,16 @@
+D:\С#\Лаба10\Лаба10\bin\Debug\net5.0\Лаба10.exe
+D:\С#\Лаба10\Лаба10\bin\Debug\net5.0\Лаба10.deps.json
+D:\С#\Лаба10\Лаба10\bin\Debug\net5.0\Лаба10.runtimeconfig.json
+D:\С#\Лаба10\Лаба10\bin\Debug\net5.0\Лаба10.runtimeconfig.dev.json
+D:\С#\Лаба10\Лаба10\bin\Debug\net5.0\Лаба10.dll
+D:\С#\Лаба10\Лаба10\bin\Debug\net5.0\ref\Лаба10.dll
+D:\С#\Лаба10\Лаба10\bin\Debug\net5.0\Лаба10.pdb
+D:\С#\Лаба10\Лаба10\obj\Debug\net5.0\Лаба10.csproj.AssemblyReference.cache
+D:\С#\Лаба10\Лаба10\obj\Debug\net5.0\Лаба10.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\Лаба10\Лаба10\obj\Debug\net5.0\Лаба10.AssemblyInfoInputs.cache
+D:\С#\Лаба10\Лаба10\obj\Debug\net5.0\Лаба10.AssemblyInfo.cs
+D:\С#\Лаба10\Лаба10\obj\Debug\net5.0\Лаба10.csproj.CoreCompileInputs.cache
+D:\С#\Лаба10\Лаба10\obj\Debug\net5.0\Лаба10.dll
+D:\С#\Лаба10\Лаба10\obj\Debug\net5.0\ref\Лаба10.dll
+D:\С#\Лаба10\Лаба10\obj\Debug\net5.0\Лаба10.pdb
+D:\С#\Лаба10\Лаба10\obj\Debug\net5.0\Лаба10.genruntimeconfig.cache
