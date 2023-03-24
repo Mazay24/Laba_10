@@ -51,7 +51,7 @@ delegate void CarWasher(Car car);
     {
         public void Wash(Car car)
         {
-            Console.WriteLine($"Автомобиль {car.Name} помыт.");
+            Console.WriteLine("Автомобиль" + car.Name + "помыт.");
         }
     }
 
